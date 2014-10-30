@@ -64,7 +64,7 @@ Undecided
 
 ## Presentations
 
-* Poster, KidArt: displaying children's art in the home, CHI SDC 2012 [supplementary material presented to judges] (ka_supplement.pdf)
+* Poster, KidArt: displaying children's art in the home, CHI SDC 2012 [supplementary material presented to judges] ((ka_supplement.pdf))
 * Poster, #Health@You: Promoting wellness and self-monitoring for diabetic teens, CRA-W Grad Cohort 2012 [poster](cohort.pdf)
       
 ## Awards
