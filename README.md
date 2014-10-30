@@ -31,8 +31,8 @@ Undecided
 | -------------------- | ----------------- | ----------------- |
 | Start                | Fall 2009     |                   |
 | Area Exam            | Spring 2011   | N/A   |
-| Proposal Defense     | {semester} {year} | Fall 2015     |
-| Dissertation Defense | {semester} {year} | Fall 2016     |
+| Proposal Defense     |           | Fall 2015     |
+| Dissertation Defense |     | Fall 2016     |
 
 ## Courses (listed in order taken)
 
@@ -60,11 +60,11 @@ Undecided
 * Andrzej Ehrenfeucht, Michael Main, Gregorz Rozenberg, and Allison Thompson Brown. Stability and chaos in reaction systems. _International Journal of Foundations of Computer Science_, 23(5):1173–1184, 2012.
 * Allison T. Brown, Kaitlin Hegarty, Aileen McCollum, and Colin Twaddell. KidArt: displaying children's art in the home. In _Proceedings of the 2012 ACM annual conference extended abstracts on Human Factors in Computing Systems Extended Abstracts (CHI EA '12)_. CHI SDC, 25% acceptance rate.
 * Allison T. Brown and Elizabeth Bradley, An Experimental Exploration of the Dynamics of Kneading, _12th experimental chaos and complexity conference_, acceptance rate unknown.
-* Allison Thompson (Brown). Automated generation of website content and layout. In _Proceedings from the Michigan Celebration of Women in Computing_, Michigan, USA, 2009. 5 pages, Best Paper Award.
+* Allison Thompson (Brown). Automated generation of website content and layout. In _Proceedings from the Michigan Celebration of Women in Computing_, Michigan, USA, 2009. 5 pages, **Best Paper Award**.
 
 ## Presentations
 
-* Poster, KidArt: displaying children's art in the home, CHI SDC 2012 [supplementary material presented to judges] ((ka_supplement.pdf))
+* Poster, KidArt: displaying children's art in the home, CHI SDC 2012 [supplementary material presented to judges] ( (ka_supplement.pdf) )
 * Poster, #Health@You: Promoting wellness and self-monitoring for diabetic teens, CRA-W Grad Cohort 2012 [poster](cohort.pdf)
       
 ## Awards
