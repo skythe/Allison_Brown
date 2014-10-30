@@ -9,7 +9,7 @@ Allison Brown
 Allison.Thompson@Colorado.EDU
 
 ## Photo
-![profile photo](files/allison-brown.jpg)
+![profile photo](master/allison-brown.jpg)
 
 ## Website
 http://www.scribblefix.com
