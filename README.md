@@ -9,7 +9,7 @@ Allison Brown
 Allison.Thompson@Colorado.EDU
 
 ## Photo
-![profile photo](master/allison-brown.jpg)
+![profile photo](allison-brown.jpg)
 
 ## Website
 http://www.scribblefix.com
@@ -94,9 +94,9 @@ Undecided
 # Highlights
 
 ## CUWIC welcome breakfast (this is from 2011, but I can’t find more recent pictures).
-![highlight](files/img1.png)
+![highlight](img1.png)
 
 
 ## Presentation to judges at CHI for the Student Design Competition.
-![highlight](files/img2.png)
+![highlight](img2.png)
 
